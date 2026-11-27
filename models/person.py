@@ -6,4 +6,4 @@ class Person:
         self.phone = phone
 
     def showInfo(self):
-       print(f"Name: {self.name}\nSurname: {self.surname}\nAge: {self.age}\nPhone: {self.phone}\n")
+       print(f"Name: {self.name}\nSurname: {self.surname}\nAge: {self.age}\nPhone: {self.phone}")
